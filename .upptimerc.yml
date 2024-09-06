@@ -15,8 +15,8 @@ sites:
     url: https://authelia.cattle.email
   - name: bum.bayreuth.de
     url: https://bum.bayreuth.de/.well-known/matrix/client
-  - name: web.bum.bayreuth.de
-    url: https://web.bum.bayreuth.de/
+  #- name: web.bum.bayreuth.de
+  #  url: https://web.bum.bayreuth.de/
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
