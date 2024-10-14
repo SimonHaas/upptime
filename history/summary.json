@@ -22,9 +22,9 @@
     "url": "https://www.cattle.email/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cattle.email.ico",
     "slug": "cattle-email",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 866,
     "timeMonth": 840,
     "timeYear": 852,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-14": 0
+    }
   },
   {
     "name": "app.cattle.email",
