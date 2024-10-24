@@ -112,7 +112,7 @@
     "url": "https://web.bum.bayreuth.de/",
     "icon": "https://icons.duckduckgo.com/ip3/web.bum.bayreuth.de.ico",
     "slug": "web-bum-bayreuth-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -123,6 +123,8 @@
     "timeWeek": 795,
     "timeMonth": 833,
     "timeYear": 822,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-24": 0
+    }
   }
 ]
