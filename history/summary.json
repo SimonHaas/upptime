@@ -58,72 +58,80 @@
     "url": "https://www.cattle.email",
     "icon": "https://icons.duckduckgo.com/ip3/www.cattle.email.ico",
     "slug": "cattle-email",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "96.30%",
+    "uptimeDay": "96.30%",
+    "uptimeWeek": "96.30%",
+    "uptimeMonth": "96.30%",
+    "uptimeYear": "96.30%",
     "time": 1212,
     "timeDay": 1212,
     "timeWeek": 1212,
     "timeMonth": 1212,
     "timeYear": 1212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 2
+    }
   },
   {
     "name": "Cattle.email App",
     "url": "https://app.cattle.email",
     "icon": "https://icons.duckduckgo.com/ip3/app.cattle.email.ico",
     "slug": "cattle-email-app",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "97.23%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "97.23%",
+    "uptimeMonth": "97.23%",
+    "uptimeYear": "97.23%",
     "time": 579,
     "timeDay": 579,
     "timeWeek": 579,
     "timeMonth": 579,
     "timeYear": 579,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 2
+    }
   },
   {
     "name": "Cattle.email Mail",
     "url": "https://mail.cattle.email",
     "icon": "https://icons.duckduckgo.com/ip3/mail.cattle.email.ico",
     "slug": "cattle-email-mail",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.11%",
+    "uptimeDay": "98.11%",
+    "uptimeWeek": "98.11%",
+    "uptimeMonth": "98.11%",
+    "uptimeYear": "98.11%",
     "time": 885,
     "timeDay": 885,
     "timeWeek": 885,
     "timeMonth": 885,
     "timeYear": 885,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 1
+    }
   },
   {
     "name": "Cattle.email NPM",
     "url": "https://npm.cattle.email",
     "icon": "https://icons.duckduckgo.com/ip3/npm.cattle.email.ico",
     "slug": "cattle-email-npm",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.01%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
     "time": 603,
     "timeDay": 603,
     "timeWeek": 603,
     "timeMonth": 603,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-28": 1
+    }
   },
   {
     "name": "Bandagecube",
@@ -131,18 +139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bandagecube.com.ico",
     "slug": "bandagecube",
     "status": "down",
-    "uptime": "3.11%",
-    "uptimeDay": "3.11%",
-    "uptimeWeek": "3.11%",
-    "uptimeMonth": "3.11%",
-    "uptimeYear": "3.11%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-28": 0
+      "2025-01-28": 59
     }
   },
   {
